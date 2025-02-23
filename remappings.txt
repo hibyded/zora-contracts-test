@@ -1,0 +1,8 @@
+@openzeppelin/=lib/zora-protocol/node_modules/@openzeppelin/
+@zoralabs/=lib/zora-protocol/node_modules/@zoralabs/
+ds-test/=lib/zora-protocol/node_modules/ds-test/
+forge-std/=lib/forge-std/src/
+mint/=lib/zora-protocol/_imagine/mint/
+solady/=lib/zora-protocol/node_modules/solady/
+solmate/=lib/zora-protocol/node_modules/solmate/
+zora-protocol/=lib/zora-protocol/
